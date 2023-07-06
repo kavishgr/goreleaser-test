@@ -8,4 +8,5 @@ import(
 func main(){
   os := runtime.GOOS
   fmt.Println("Hello from", os)
+  fmt.Println("Goodbye!")
 }
