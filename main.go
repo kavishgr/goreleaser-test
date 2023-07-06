@@ -7,6 +7,6 @@ import(
 
 func main(){
   os := runtime.GOOS
-  fmt.Println("Hello from", os)
+  fmt.Println("Hello from Go on", os)
   fmt.Println("Goodbye!")
 }
